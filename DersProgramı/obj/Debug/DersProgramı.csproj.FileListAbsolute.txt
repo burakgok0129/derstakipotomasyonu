@@ -1,0 +1,11 @@
+C:\Users\JİNN\source\repos\DersProgramı\DersProgramı\bin\Debug\DersProgramı.exe.config
+C:\Users\JİNN\source\repos\DersProgramı\DersProgramı\bin\Debug\DersProgramı.exe
+C:\Users\JİNN\source\repos\DersProgramı\DersProgramı\bin\Debug\DersProgramı.pdb
+C:\Users\JİNN\source\repos\DersProgramı\DersProgramı\obj\Debug\DersProgramı.csproj.AssemblyReference.cache
+C:\Users\JİNN\source\repos\DersProgramı\DersProgramı\obj\Debug\DersProgramı.Form1.resources
+C:\Users\JİNN\source\repos\DersProgramı\DersProgramı\obj\Debug\DersProgramı.Properties.Resources.resources
+C:\Users\JİNN\source\repos\DersProgramı\DersProgramı\obj\Debug\DersProgramı.csproj.GenerateResource.cache
+C:\Users\JİNN\source\repos\DersProgramı\DersProgramı\obj\Debug\DersProgramı.csproj.CoreCompileInputs.cache
+C:\Users\JİNN\source\repos\DersProgramı\DersProgramı\obj\Debug\DersProgramı.exe
+C:\Users\JİNN\source\repos\DersProgramı\DersProgramı\obj\Debug\DersProgramı.pdb
+C:\Users\JİNN\source\repos\DersProgramı\DersProgramı\obj\Debug\DersProgramı.Form2.resources
